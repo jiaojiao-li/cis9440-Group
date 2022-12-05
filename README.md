@@ -69,7 +69,7 @@ List of Visualizations for each KPI:
 BI Application Wireframe design:
 ![Shooting and Arrest Occurrences Dashboard Wireframe](https://user-images.githubusercontent.com/118584252/205547322-eb8271e0-993f-454d-a4a5-6c322b5b4511.png)
 
-
+![Death from Shootings Dashboard Wireframe](https://user-images.githubusercontent.com/118584252/205547408-6e9fefcc-8587-4de3-9a1a-facdf1748941.png)
 
 Shooting and Arrest Occurrences Dashboard Wireframe
 
