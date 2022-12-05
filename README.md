@@ -52,8 +52,7 @@ This project's Kimball Bus Matrix:
 ![Kimball Bus Matrix](https://user-images.githubusercontent.com/118584252/205545077-d871ed0c-e10c-4ac3-9a53-e6a5c2f72c4c.png)
 
 This project's dimensional model: Multi Fact Star Model
-
-
+![Multi Fact Star Model](https://user-images.githubusercontent.com/118584252/205546569-ce0387e7-74fb-4668-908a-ad0e42ad422e.png)
 
 ### Business Intelligence Design and Development
 
@@ -68,6 +67,7 @@ List of Visualizations for each KPI:
 
 
 BI Application Wireframe design:
+
 
 Shooting and Arrest Occurrences Dashboard Wireframe
 
