@@ -72,6 +72,8 @@ BI Application Wireframe design:
 ![Death from Shootings Dashboard Wireframe](https://user-images.githubusercontent.com/118584252/205547408-6e9fefcc-8587-4de3-9a1a-facdf1748941.png)
 
 Shooting and Arrest Occurrences Dashboard Wireframe
+![Dashboard_Arrest](https://user-images.githubusercontent.com/118584252/205547515-9b5436b3-4a81-479b-b7f2-e801fcc09a8d.png)
+
 
 
 
