@@ -50,11 +50,11 @@ This project's Dimensional Model consists of 2 Facts and 5 Dimensions
 
 This project's Kimball Bus Matrix:
 
-![Alt text](Kimball Bus Matrix.png)
+![Alt text](Kimball_Bus_Matrix.png)
 
 This project's dimensional model: Multi Fact Star Model:
 
-![Multi Fact Star Model](https://user-images.githubusercontent.com/118584252/205546569-ce0387e7-74fb-4668-908a-ad0e42ad422e.png)
+![Alt text](Multi_Fact_Star_Model.png)
 
 ### Business Intelligence Design and Development
 
@@ -72,12 +72,11 @@ BI Application Wireframe design:
 
 Shooting and Arrest Occurrences Dashboard Wireframe:
 
-![Shooting and Arrest Occurrences Dashboard Wireframe](https://user-images.githubusercontent.com/118584252/205547322-eb8271e0-993f-454d-a4a5-6c322b5b4511.png)
-![Alt text](Dashboard_Shooting.png)
+![Alt text](Shooting_and_Arrest_Occurrences_Dashboard_Wireframe.png)
 
 Death from Shootings Dashboard Wireframe:
 
-![Alt text](Dashboard_Shooting.png)
+![Alt text](Death_from_Shootings_Dashboard_Wireframe.png)
 
 Shooting and Arrest Occurrences Dashboard Wireframe
 
