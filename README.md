@@ -51,6 +51,7 @@ This project's Dimensional Model consists of 2 Facts and 5 Dimensions
 This project's Kimball Bus Matrix:
 
 ![Kimball Bus Matrix](https://user-images.githubusercontent.com/118584252/205545077-d871ed0c-e10c-4ac3-9a53-e6a5c2f72c4c.png)
+![Alt text](Kimball Bus Matrix.png)
 
 This project's dimensional model: Multi Fact Star Model:
 
